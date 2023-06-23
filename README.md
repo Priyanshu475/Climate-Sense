@@ -1,4 +1,4 @@
-## Live at @https://my-fitness-pal-phi.vercel.app/
+## Live at @https://climatesense.vercel.app/
 
 
 #   Climate Sense(API based weather web app)
